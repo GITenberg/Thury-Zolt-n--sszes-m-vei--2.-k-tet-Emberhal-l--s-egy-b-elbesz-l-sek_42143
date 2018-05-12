@@ -1,0 +1,41 @@
+_repo: Thury-Zolt-n--sszes-m-vei--2.-k-tet-Emberhal-l--s-egy-b-elbesz-l-sek_42143
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thury, Zoltán
+    alias: Thury, Zoltan
+    birthdate: 1870
+    deathdate: 1906
+    gutenberg_agent_id: '8861'
+    url: http://www.gutenberg.org/2009/agents/8861
+    wikipedia: http://hu.wikipedia.org/wiki/Thury_Zolt%C3%A1n
+description: ''
+gutenberg_issued: '2013-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42143'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Fiction'
+- !lcc 'PH'
+tableOfContents: Emberhalál -- Virágfakadás -- A szinész -- A szegény emberek pártja
+  -- A divat -- A birtok és a ház -- Az első lépés -- Virtus -- Katonák -- Leányvásár
+  -- Az éjszaka -- Sedan -- A fecskék -- Tizenegy esztendő -- Tamás -- A kis grófné
+  -- Az öreg gazda -- Viharok -- Harminczezer forint -- Sokoloff -- Vén politikusok
+  -- Jávor főhadnagy -- A kis vörös zászló -- A kés -- Szivárvány -- Papp Sárika --
+  A Becski-leány -- Meghalt az öreg -- Kende Miklós végrendelete -- A lapatyi malom
+  mellett -- A megbolondulás -- Ki a házból -- Egy kis fertályóra -- Egy gyár története
+  -- A szabót ki kellett dobni -- A fiákeres ur -- Hogy a gyerekeknek egy kis mulatságuk
+  legyen -- A szemtelen ember -- A második asszony -- Vadölő kisasszony -- Hubanek
+  ur és a fia -- Az utazás.
+title: 'Thury Zoltán összes művei (2. kötet)
+
+  Emberhalál és egyéb elbeszélések'
+url: http://www.gutenberg.org/ebooks/42143
